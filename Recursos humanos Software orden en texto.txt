@@ -1,0 +1,21 @@
+VISTA EN TEXTO DE BOTONES DE MENU
+
+//agregar asistencia al programa y bases de datos
+//considerar agregar Subclase de procesos
+
+--ADMINISTRACION--
+empleados
+Vacaciones
+Permisos
+ --REGISTRO--
+//aistencia
+registro de horas trabajadas
+Registro de INSS
+--EVALUACIONES--
+evaluacion de desempeño
+--Informacion
+Departamentos
+Puestos
+Acerca de la empresa
+Acerca del Software
+
